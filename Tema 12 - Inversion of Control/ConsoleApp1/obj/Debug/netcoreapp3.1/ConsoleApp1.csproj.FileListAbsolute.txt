@@ -1,0 +1,15 @@
+E:\Amdaris\Teme\Tema 12 - Inversion of Control\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\Amdaris\Teme\Tema 12 - Inversion of Control\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\Amdaris\Teme\Tema 12 - Inversion of Control\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\Amdaris\Teme\Tema 12 - Inversion of Control\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\Amdaris\Teme\Tema 12 - Inversion of Control\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\Amdaris\Teme\Tema 12 - Inversion of Control\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\Amdaris\Teme\Tema 12 - Inversion of Control\ConsoleApp1\bin\Debug\netcoreapp3.1\Ninject.dll
+E:\Amdaris\Teme\Tema 12 - Inversion of Control\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Amdaris\Teme\Tema 12 - Inversion of Control\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Amdaris\Teme\Tema 12 - Inversion of Control\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Amdaris\Teme\Tema 12 - Inversion of Control\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\Amdaris\Teme\Tema 12 - Inversion of Control\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Amdaris\Teme\Tema 12 - Inversion of Control\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\Amdaris\Teme\Tema 12 - Inversion of Control\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\Amdaris\Teme\Tema 12 - Inversion of Control\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
