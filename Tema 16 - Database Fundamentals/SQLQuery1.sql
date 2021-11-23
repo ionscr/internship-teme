@@ -44,3 +44,5 @@ SELECT u.last_name as Profesor, cl.classroom_name as Sala from users u inner joi
 SELECT u.last_name as Profesor from users u inner join (SELECT class.teacher_id, count(class.teacher_id) as cnt from class  group by class.teacher_id having count(class.teacher_id) > 1) l on u.id = l.teacher_id;
 
 SELECT users.first_name from users ORDER BY users.last_name DESC;
+
+
